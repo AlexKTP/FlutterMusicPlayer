@@ -1,10 +1,36 @@
 # fluttermusicplayer
 
-A music player 
+This  is an Android Application (Flutter) to listen some musics.
 
-## Getting Started
+## Contributing
 
-This project is a starting point for a Flutter application.
+* **Alex KTP** - *Business Logic and Artistic Direction*
+
+## Versioning
+
+We use [Git](https://git-scm.com/) for versioning.
+
+## Authors
+
+* **Alex KTP** - *Android Dev KTP Ltd*
+
+## License
+
+This project is open source.
+
+## Acknowledgments
+
+* Flutter and Dart
+* Adding Packages
+* Implementing and using widgets
+* Using async tasks
+
+
+## Developed By
+
+Alex KTP
+
+    Copyright 2020 Alex KTP
 
 A few resources to get you started if this is your first Flutter project:
 
